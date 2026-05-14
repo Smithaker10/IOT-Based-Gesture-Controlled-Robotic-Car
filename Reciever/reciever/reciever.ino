@@ -1,7 +1,7 @@
 #include <esp_now.h>
 #include <WiFi.h>
 
-// 🔌 TERA WIRING
+// WIRING
 #define IN1 26
 #define IN2 27
 #define IN3 14
