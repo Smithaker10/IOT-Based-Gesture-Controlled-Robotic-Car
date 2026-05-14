@@ -27,6 +27,14 @@ This project implements a **wireless gesture-controlled robotic car** using two 
 ```
 
 ---
+## 📷 Project Preview
+
+### 🔧 Hardware Setup
+![Hardware Setup](images/1.jpeg)
+
+### 🎮 Transmitter Unit
+![Transmitter](images/transmitter.jpeg)
+
 
 ## 🧰 Components
 
